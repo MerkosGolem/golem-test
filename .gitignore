@@ -1,0 +1,8 @@
+
+# Golem sandbox — auto-added
+node_modules/
+.pnpm-store/
+.venv/
+__pycache__/
+*.pyc
+.cache/
